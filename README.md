@@ -1,6 +1,6 @@
 # gitrish
 # portfolio
-Microsoft Azure Link
+#Microsoft Azure Link
 https://lively-field-0109b5810.3.azurestaticapps.net/
-Demo Video Link
+#Demo Video Link
 https://youtu.be/JfKgxvaZK_o
